@@ -1,0 +1,13 @@
+{
+    "timeline.pageSize": null,
+    "terminal.integrated.shellIntegration.enabled": false,
+    "notebook.editorOptionsCustomizations": {
+    
+    },
+    "editor.tabSize": 5,
+    "editor.insertSpaces": true,
+    "workbench.settings.openDefaultKeybindings": false,
+    "workbench.settings.openDefaultSettings": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "search.useGlobalIgnoreFiles": false
+}
